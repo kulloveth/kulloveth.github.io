@@ -33,7 +33,7 @@ This app allow users to search for popular and top-rated movies from [theMoviedb
   </td>
      <td>
 
-  ![Movie Trailers](https://github.com/kulloveth/MyProjects/blob/master/movies.png)
+  ![Movie Trailers](movies.png)
 
   </td>
  
