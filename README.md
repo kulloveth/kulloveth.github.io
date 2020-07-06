@@ -18,20 +18,20 @@ This app allow users to search for popular and top-rated movies from [theMoviedb
 <tr>
 <td>
 
- <img src =  "https://github.com/kulloveth/PopularMovies/blob/master/screenshots/popular.png"/>
+ <img src =  "/assets/list.png"/>
 
  </td>
  <td>
 
- <img src ="https://github.com/kulloveth/PopularMovies/blob/master/screenshots/detail.png"/>
+ <img src ="/assets/detail.png"/>
 
  </td>
 
    <td>
-<img src = "https://github.com/kulloveth/PopularMovies/blob/master/screenshots/trailers.png" />
+<img src = "/assets/trailer.png" />
   </td>
   <td>
-  <img src = "movies.png"/>
+  <img src = "/assets/movies.png"/>
 </td>
     </tr>
 </table>
