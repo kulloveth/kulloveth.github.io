@@ -31,6 +31,11 @@ This app allow users to search for popular and top-rated movies from [theMoviedb
   ![Movie Trailers](https://github.com/kulloveth/PopularMovies/blob/master/screenshots/trailers.png)
 
   </td>
-  
+     <td>
+
+  ![Movie Trailers](https://github.com/kulloveth/MyProjects/blob/master/movies.png)
+
+  </td>
+ 
   </tr>
 </table>
