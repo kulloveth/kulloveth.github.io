@@ -18,20 +18,20 @@ This app allow users to search for popular and top-rated movies from [theMoviedb
 <tr>
 <td>
 
- <img src =  "/assets/list.png"/>
+ <img src =  "screenshots/list.png"/>
 
  </td>
  <td>
 
- <img src ="/assets/detail.png"/>
+ <img src ="screenshots/detail.png"/>
 
  </td>
 
    <td>
-<img src = "/assets/trailer.png" />
+<img src = "screenshots/trailer.png" />
   </td>
   <td>
-  <img src = "/assets/movies.png"/>
+  <img src = "screenshots/movies.png"/>
 </td>
     </tr>
 </table>
