@@ -1,6 +1,55 @@
 # MyProjects
 Portfolio Projects
 
+#WellnessCity-MVVM-Kotlin
+A Community project to help user stay healthy, get Health and Diet tips/advice and Covid 19 prevention tips
+
+## Features
+* User can view list of health conditions with symptoms,causes,tratments
+* User can view list of health tips and details
+* User can view list of meals and recipes by Diet choice
+* User can see Covid 19 prevention tips
+
+## Libraries Used
+
+* Dagger Hilt
+* Retrofit
+* Cloud Firestore
+* Preference DataStore
+* ViewModel
+* LiveData
+* Lottie
+* Coroutines
+* Navigation Components
+* Timber
+* Shimmer
+
+
+
+[Source code](https://github.com/kulloveth/WellnessCity)
+
+<table>
+<tr>
+<td>
+
+ <img src =  "screenshots/Wcity.gif"/>
+
+ </td>
+ <td>
+
+ <img src ="screenshots/health_tips.png"/>
+
+ </td>
+
+   <td>
+<img src = "screenshots/illness.png" />
+  </td>
+  <td>
+  <img src = "screenshots/diets.png"/>
+</td>
+    </tr>
+</table>
+
 # PopularMovies-MVVM-JAVA
 This app allow users to search for popular and top-rated movies from [theMoviedb.org](https://www.themoviedb.org/). User can view trailers, movie reviews, overview and like movies to view offline
 
