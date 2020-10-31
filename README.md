@@ -1,7 +1,7 @@
 # MyProjects
 Portfolio Projects
 
-#WellnessCity-MVVM-Kotlin
+# WellnessCity-MVVM-Kotlin
 A Community project to help user stay healthy, get Health and Diet tips/advice and Covid 19 prevention tips
 
 ## Features
@@ -18,6 +18,7 @@ A Community project to help user stay healthy, get Health and Diet tips/advice a
 * Preference DataStore
 * ViewModel
 * LiveData
+* ViewBinding
 * Lottie
 * Coroutines
 * Navigation Components
@@ -46,6 +47,46 @@ A Community project to help user stay healthy, get Health and Diet tips/advice a
   </td>
   <td>
   <img src = "screenshots/diets.png"/>
+</td>
+    </tr>
+</table>
+
+# Covid19VirusTracker-MVVM-Kotlin
+An android app to keep track of covid 19 case statistics, News and show preventive measures
+
+## Library Used
+* Retrofit
+* Gson
+* Picasso
+* WorkManager
+* Coroutine 
+* Koin
+* ViewModel
+* LiveData
+* Navigation Component
+* Room
+* ViewBinding
+
+[Source code](https://github.com/kulloveth/Covid19VirusTracker)
+
+<table>
+<tr>
+<td>
+
+ <img src =  "screenshots/new-coro.gif"/>
+
+ </td>
+ <td>
+
+ <img src ="screenshots/graph.png"/>
+
+ </td>
+
+   <td>
+<img src = "screenshots/news.png" />
+  </td>
+  <td>
+  <img src = "screenshots/status.png"/>
 </td>
     </tr>
 </table>
