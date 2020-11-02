@@ -1,5 +1,9 @@
 # MyProjects
-Portfolio Projects
+<a href="https://dev.to/kulloveth">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Loveth Nwokike's DEV Profile" height="30" width="30">
+</a> 
+
+# Portfolio Projects 
 
 # WellnessCity-MVVM-Kotlin
 A Community project to help user stay healthy, get Health and Diet tips/advice and Covid 19 prevention tips
